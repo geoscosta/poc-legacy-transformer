@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("poc-lengacy-transformer-01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c62ccf7dab4b86d47df643c0d8e6decd3ca3951")]
 [assembly: System.Reflection.AssemblyProductAttribute("poc-lengacy-transformer-01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("poc-lengacy-transformer-01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
