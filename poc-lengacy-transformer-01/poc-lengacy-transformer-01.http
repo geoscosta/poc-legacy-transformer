@@ -1,0 +1,6 @@
+@poc_lengacy_transformer_01_HostAddress = http://localhost:5191
+
+GET {{poc_lengacy_transformer_01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
